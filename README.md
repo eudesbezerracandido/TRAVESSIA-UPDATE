@@ -23,6 +23,10 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FHGYUXJE7FWZ7QIOVJF7DNHWFACPK6TF$nome=TRAVESSIA EP.19</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4JQNSAH7TEXXR2N2ILXKHN5FOI3NEQPD$nome=TRAVESSIA EP.20</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZNQ3MI6IT2PBKCEJX25LJSBMPMHEQZGA$nome=TRAVESSIA EP.21</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T2GUE4E5RBFGLGAI2DR7G65SSK7OB6U3$nome=TRAVESSIA EP.22</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6PBMQ6LVQEYO2GSFYVLRWMYX5CM3QFH6$nome=TRAVESSIA EP.23</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EEOZPRZ66TUKTXLR7WFZI6IY6BRW4WQJ$nome=TRAVESSIA EP.24</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YRZX65IAOOMQSYGNN2L63B2CP3CQP5EQ$nome=TRAVESSIA EP.25</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em Travessia, novela de Gloria Perez, acompanhamos Brisa (Lucy Alves), uma jovem maranhense que é vítima de um crime virtual. Quando montagem com o seu rosto são espalhadas pela internet, Brisa precisa descobrir o que está acontecendo com ela e quem pode ser o responsável. Para ajudá-la nesta investigação pessoal, Brisa se aproxima do hacker Otto (Rômulo Estrela). No entanto, a relação entre Brisa e Otto desperta o ciúmes de Ari (Chay Suede), namorado de Brisa, que fará de tudo para afastar os dois. Enquanto isso, a delegada Helô (Giovanna Antonelli) e o advogado Stenio (Alexandre Nero) de Salve Jorge, retornam para resolver novos casos e mostrar que a internet não está livre da lei.</info>
