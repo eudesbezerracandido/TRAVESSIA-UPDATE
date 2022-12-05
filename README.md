@@ -43,6 +43,11 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WSRBK73SZ42QWVGLHMEJIQZGHEN2V237$nome=TRAVESSIA EP.39</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NA35DZLLZFCGRKBJMGWNOUPNS7DF3MT2$nome=TRAVESSIA EP.40</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S2SNL5AN36HLRK6HAZN6TQ2GVXYXC6JW$nome=TRAVESSIA EP.41</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75GWH7HGMSAHAPIW3RIP3SENRJMHLBXP$nome=TRAVESSIA EP.42</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:K3OBYSVU2PF7RDQYAQEHDMWNDP235EKM$nome=TRAVESSIA EP.43</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KFNSB4QS4L632LV2ZSYIJ4OUCEWYQFKK$nome=TRAVESSIA EP.44</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=TRAVESSIA EP.45</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=TRAVESSIA EP.46</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em Travessia, novela de Gloria Perez, acompanhamos Brisa (Lucy Alves), uma jovem maranhense que é vítima de um crime virtual. Quando montagem com o seu rosto são espalhadas pela internet, Brisa precisa descobrir o que está acontecendo com ela e quem pode ser o responsável. Para ajudá-la nesta investigação pessoal, Brisa se aproxima do hacker Otto (Rômulo Estrela). No entanto, a relação entre Brisa e Otto desperta o ciúmes de Ari (Chay Suede), namorado de Brisa, que fará de tudo para afastar os dois. Enquanto isso, a delegada Helô (Giovanna Antonelli) e o advogado Stenio (Alexandre Nero) de Salve Jorge, retornam para resolver novos casos e mostrar que a internet não está livre da lei.</info>
